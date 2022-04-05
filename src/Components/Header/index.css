@@ -1,0 +1,17 @@
+.nav-link>a, .navbar-brand>a, .nav-link{
+    text-decoration: none !important;
+    color: #fff !important;
+  }
+  
+.items{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    justify-content: space-around;
+    padding-right: 10%;
+}
+.dropdown-menu{
+  width: 220% !important;
+  left: -60% !important;
+  
+}

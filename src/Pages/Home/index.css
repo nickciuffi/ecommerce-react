@@ -1,0 +1,14 @@
+.container.home{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 70% !important;
+}
+.container>img{
+    width:60%
+}
+.goto-prod{
+    font-size: 1.5rem;
+}

@@ -1,0 +1,12 @@
+.item-cont{
+    padding: 0px 20px;
+    font-size: 1.1rem;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+}
+.buttons-car-item{
+    width: 42%;
+    display: flex;
+    justify-content: space-between;
+}

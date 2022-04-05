@@ -1,0 +1,18 @@
+.prod-cont{
+    background-color: rgb(190, 190, 190);
+}
+.prod-cont>img{
+    width: 100%;
+}
+.title-prod{
+   
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+.subtitle-prod{
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
+.prod-info{
+    padding: 15px 10px;
+}
