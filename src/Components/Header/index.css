@@ -13,5 +13,8 @@
 .dropdown-menu{
   width: 220% !important;
   left: -60% !important;
-  
+  padding: 15px 0px;
+}
+.dropdown-menu>hr:last-child{
+  display: none;
 }
